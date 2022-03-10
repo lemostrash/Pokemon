@@ -1,0 +1,71 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+body{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(169, 253, 242));
+    font-family: "ubuntu", sans-serif;
+    background-size: cover;
+    display: flex;
+    margin: 20px;
+    margin-left: 80px;
+}
+
+.title{
+    margin-top: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 200;
+    color: rgb(255, 174, 0);
+    text-shadow: 2px 2px 1px #000000;
+
+}
+
+.subtitle{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: center;
+    margin-top: auto;
+    font-size: 40px;
+    font-weight: 200;
+    color: white;
+    text-shadow: 2px 2px 1px #000000;
+}
+
+.base{
+    margin-right: 400px;
+    margin-top: 10px;
+    opacity: 0.5;
+    left: 10%;
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    border: 5px solid rgb(255, 52, 52);
+}
+
+#gengar{
+    border-radius: 400px;
+    border: 8px solid #9088b9;
+    position: absolute; 
+    margin-left: 620px;
+}
+
+#pikachu{
+    margin-top: 210px;
+    border-radius: 400px;
+    border: 8px solid #f8e80c;
+    position: absolute; 
+    margin-left: 620px;
+}
+
+#bulba{
+    margin: auto;
+    margin-top: 420px;
+    border-radius: 400px;
+    border: 8px solid #9bf1b9;
+    position: absolute;
+    margin-left: 620px;
+} 
