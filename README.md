@@ -1,3 +1,3 @@
-# Pokemon
+# Pokemon 
 
-Escolha seu pokemon e veja uma animação e dados sobre ele
+Escolha seu pokemon e veja uma animação e dados sobre ele.
