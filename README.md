@@ -1,3 +1,3 @@
 # Pokemon 
 
-Escolha seu pokemon e veja uma animação e dados sobre ele.
+Te falar que nesse projeto, eu estudando css muito além do que eu queria.
